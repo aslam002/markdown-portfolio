@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Hearts :heart:
+* Smiley Face :smile:
+  * Friends
+  * Family
